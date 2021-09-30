@@ -1,1 +1,1 @@
-# Tes Repo for APSU Code bootcamp
+# Test Repo for APSU Code bootcamp
